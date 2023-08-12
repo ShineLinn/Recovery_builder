@@ -7,7 +7,7 @@ export BRANCH="twrp-12.1" # the branch of manifest
 
 # about your device
 export DEVICE="selene" # codename used in device tree
-export DT_LINK="https://github.com/Cathryn2003/android_device_xiaomi_selene" # device tree link
+export DT_LINK="https://github.com/ShineLinn/android_device_xiaomi_selene/tree/selene-user-11-RP1A.200720.011-V12.5.2.0.RKUCNXM-release-keys" # device tree link
 export DT_BRANCH="twrp" # device tree branch
 export VENDOR="xiaomi" # device manufacturer or vendor
 export TARGET="bootimage" # build method: recoveryimage, bootimage, vendorboot
